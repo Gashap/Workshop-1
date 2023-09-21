@@ -41,7 +41,7 @@ https://github.com/Gashap/Workshop-1/tree/main/Unity/Assets
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
 
-
+https://github.com/Gashap/Workshop-1/blob/main/README.md
 
 ## Выводы
 
