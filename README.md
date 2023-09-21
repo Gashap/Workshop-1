@@ -28,6 +28,9 @@
 ## Задание 1
 ### Написать программу Hello World на Python с запуском в Jupiter Notebook.
 
+![image](https://github.com/Gashap/Workshop-1/assets/46971365/984176b1-8df2-4bff-9fc8-1797e47ce37d)
+
+
 ```py
 
 print('Hello World')
