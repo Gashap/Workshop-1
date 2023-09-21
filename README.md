@@ -2,6 +2,7 @@
 Отчет по лабораторной работе #1 выполнил(а):
 - Штаппер Григорий Алексеевич
 - РИ-220944
+  
 Отметка о выполнении заданий (заполняется студентом):
 
 | Задание | Выполнение | Баллы |
@@ -45,16 +46,9 @@ https://github.com/Gashap/Workshop-1/blob/main/README.md
 
 ## Выводы
 
-Абзац умных слов о том, что было сделано и что было узнано.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+- В ходе выполнения работы были установлены программы Anaconda, Unity и Microsoft Visual Studio.
+- Была создана программа на Python для вывода строки Hellow World.
+- Был создан 3D проект на Unity, написана программа Hello World на C# с запуском на Unity. 
 
 ## Powered by
 
